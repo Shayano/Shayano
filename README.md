@@ -1,20 +1,20 @@
 # Hi, I'm Shayano 👋
 
 AI enthusiast building small software tools and creating translation mods for various games. 🤖🎮
+I also contribute fixes upstream to the modding tools I use.
 
-## 🎮 Translation mods
+## 🎮 Game translation mods
 
-- [subverse-fr-release](https://github.com/Shayano/subverse-fr-release) - French translation for Subverse v1.2.01 (10,799 strings)
-- [uffc-fr](https://github.com/Shayano/uffc-fr) - French translation mod for U.F.F.C (BepInEx plugin + sprites)
-- [ABR-translation](https://github.com/Shayano/ABR-translation) - A Bumpy Ride community translation mod
+- [subverse-fr-release](https://github.com/Shayano/subverse-fr-release) - French translation for Subverse v1.2.01 (10,799 strings, Unreal Engine 4 locres/pak patch)
+- [DS-Brittany-fr](https://github.com/Shayano/DS-Brittany-fr) - Dragon Sleuth Brittany: French translation + ultra-wide fix (two BepInEx 6 IL2CPP plugins)
+- [uffc-fr](https://github.com/Shayano/uffc-fr) - French translation mod for U.F.F.C (BepInEx 5 plugin + sprites + CSV)
+- [ABR-translation](https://github.com/Shayano/ABR-translation) - A Bumpy Ride community translation mod (Unreal Engine 5 IoStore)
+- [Aurelia-french-translation](https://github.com/Shayano/Aurelia-french-translation) - Complete French translation for Aurelia
 
-## 🛠️ Tools
+## 🛠️ Tools & fixes
 
-- [KismetEditor-pr](https://github.com/Shayano/KismetEditor-pr) - Unreal Engine kismet strings extractor and replacer
-- [MecchaChameleon-Ultrawide](https://github.com/Shayano/MecchaChameleon-Ultrawide) - Ultrawide (21:9 / 32:9) fullscreen setup for MECCHA CHAMELEON (UE5.6)
-- [opnsense-log-viewer](https://github.com/Shayano/opnsense-log-viewer) - GUI application for analyzing OPNsense firewall logs
-- [pixel-art-studio](https://github.com/Shayano/pixel-art-studio) - Browser-based pixel art editor with AI generation and MCP server
-- [bg3-dialog-reader](https://github.com/Shayano/bg3-dialog-reader) - View, extract, convert and listen to Baldur's Gate 3 dialogs
+- [MecchaChameleon-Ultrawide](https://github.com/Shayano/MecchaChameleon-Ultrawide) - Ultrawide (21:9 / 32:9) fullscreen setup for MECCHA CHAMELEON (UE5.6): auto-installs UE4SS + FOVControl, no zoom, no black bars
+- [opnsense-log-viewer](https://github.com/Shayano/opnsense-log-viewer) - GUI application for analyzing OPNsense firewall logs with filtering features
 
 ## ☕ Support my work
 
