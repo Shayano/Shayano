@@ -5,7 +5,7 @@ I also contribute fixes upstream to the modding tools I use.
 
 ## 🎮 Game translation mods
 
-- [train45-fr-release](https://github.com/Shayano/train45-fr-release) - Full French translation for Train45 (Godot visual novel, 18+, one-click PowerShell install patch)
+- [train45-fr-release](https://github.com/Shayano/train45-fr-release) - Full French translation for Train45 (Godot visual novel, one-click PowerShell install patch)
 - [subverse-fr-release](https://github.com/Shayano/subverse-fr-release) - French translation for Subverse v1.2.01 (Unreal Engine 4 locres/pak patch)
 - [DS-Brittany-fr](https://github.com/Shayano/DS-Brittany-fr) - Dragon Sleuth Brittany: French translation + ultra-wide fix (two BepInEx 6 IL2CPP plugins)
 - [uffc-fr](https://github.com/Shayano/uffc-fr) - French translation mod for U.F.F.C (BepInEx 5 plugin + sprites + CSV)
